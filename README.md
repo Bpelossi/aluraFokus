@@ -1,2 +1,3 @@
 # aluraFokus
-Projeto Alura Fokus - projeto de estudo emJS
+Projeto Alura Fokus - projeto de estudo em JS
+
